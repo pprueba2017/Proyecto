@@ -103,7 +103,7 @@
             // btn_ingresar
             // 
             this.btn_ingresar.Image = global::ProyectoADI.Properties.Resources.Crystal_Clear_action_apply;
-            this.btn_ingresar.Location = new System.Drawing.Point(295, 157);
+            this.btn_ingresar.Location = new System.Drawing.Point(267, 136);
             this.btn_ingresar.Name = "btn_ingresar";
             this.btn_ingresar.Size = new System.Drawing.Size(75, 59);
             this.btn_ingresar.TabIndex = 11;
