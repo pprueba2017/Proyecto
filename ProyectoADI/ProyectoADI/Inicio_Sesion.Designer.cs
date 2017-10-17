@@ -103,7 +103,7 @@
             // btn_ingresar
             // 
             this.btn_ingresar.Image = global::ProyectoADI.Properties.Resources.Crystal_Clear_action_apply;
-            this.btn_ingresar.Location = new System.Drawing.Point(267, 136);
+            this.btn_ingresar.Location = new System.Drawing.Point(267, 170);
             this.btn_ingresar.Name = "btn_ingresar";
             this.btn_ingresar.Size = new System.Drawing.Size(75, 59);
             this.btn_ingresar.TabIndex = 11;
@@ -138,7 +138,7 @@
             this.btnSalir.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnSalir.Image = global::ProyectoADI.Properties.Resources.Crystal_Clear_app_logout;
             this.btnSalir.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnSalir.Location = new System.Drawing.Point(422, 127);
+            this.btnSalir.Location = new System.Drawing.Point(401, 144);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 59);
             this.btnSalir.TabIndex = 12;
