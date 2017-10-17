@@ -138,7 +138,7 @@
             this.btnSalir.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnSalir.Image = global::ProyectoADI.Properties.Resources.Crystal_Clear_app_logout;
             this.btnSalir.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnSalir.Location = new System.Drawing.Point(422, 157);
+            this.btnSalir.Location = new System.Drawing.Point(389, 157);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 59);
             this.btnSalir.TabIndex = 12;
