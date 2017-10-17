@@ -311,7 +311,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(682, 543);
+            this.ClientSize = new System.Drawing.Size(489, 324);
             this.Controls.Add(estadoLabel);
             this.Controls.Add(this.estadoComboBox);
             this.Controls.Add(cedulaLabel);
